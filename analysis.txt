@@ -1,0 +1,28 @@
+Demographic Data
+
+Parameters in the report:
+
+All institutions (domestic + international / including or excluding donor institutions)
+
+Domestic + Poor-performing institutions (>30 embryos)
+
+International (separately) + Poor-performing institutions (>30 embryos)
+
+Domestic - Poor-performing institutions (>30 embryos)
+
+International (separately) - Poor-performing institutions (>30 embryos)
+Donor institutions: Beta Plus, GGRC, Innova, Invitro
+
+Age?
+
+Mendelian Violation (AF, IC, CHAOTIC)
+
+All institutions (domestic + international / including or excluding donor institutions)
+
+Domestic + Poor-performing institutions (>30 embryos)
+
+International (separately) + Poor-performing institutions (>30 embryos)
+
+Domestic - Poor-performing institutions (>30 embryos)
+
+International (separately) - Poor-performing institutions (>30 embryos)
