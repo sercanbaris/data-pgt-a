@@ -1,6 +1,7 @@
 import streamlit as st
-import plotly.express as px
+
 import pandas as pd
+
 
 # Page configuration
 st.set_page_config(page_title="PGT-A Analysis Dashboard", layout="wide", page_icon="🔬")
